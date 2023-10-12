@@ -41,7 +41,7 @@ jobs:
         # Repo or impiled by the current context
         repo: # optional
         # Issue title
-        title: 
+        title: This is the title
         # Body content of issue
         body: # optional
         # Milestone associated with issue
